@@ -1,0 +1,8 @@
+Instruções de uso do programa Mostrar IP interno e externo
+
+1- Abra o programa "Mostrar IP interno e externo.py" com o interpretador do Python;
+OBS: Caso você não tenha o IDLE (interpretador do Python), baixe-o no site https://www.python.org
+
+2ª OBS: Caso você não tenha a biblioteca "requests" instalada, abra o CMD (processador de comandos) 
+digite o seguinte comando e aperte ENTER:
+pip install requests
